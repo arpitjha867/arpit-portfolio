@@ -91,7 +91,7 @@ export default function Navbar() {
                         <a className='flex justify-evenly items-center w-full text-gray-300' href="mailto:arpitjha867@gmail.com" target='_blank'>Email <HiOutlineMail size={30}/></a>
                     </li>
                     <li className='w-[180px] h-[40px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-                        <a className='flex justify-evenly items-center w-full text-gray-300' href="https://drive.google.com/file/d/1gKTKCnlgWtu1xhWbIyOVqjtC3KBSeWAC/view?usp=sharing" target='_blank'>Resume <BsFillPersonLinesFill size={30}/></a>
+                        <a className='flex justify-evenly items-center w-full text-gray-300' href="https://drive.google.com/file/d/17feV_VyMASoczeYyaKB1GvMzaColtI_T/view?usp=sharing" target='_blank'>Resume <BsFillPersonLinesFill size={30}/></a>
                     </li>
                 </ul>
             </div>

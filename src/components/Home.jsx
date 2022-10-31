@@ -18,7 +18,7 @@ export default function Home() {
                 <span className='group-hover:rotate-90 duration-300'><HiArrowNarrowRight className='ml-2'/> </span>
             </button>
             <button className='group hover:bg-[#5E17EB]  hover:border-[#5e17eb] duration-300 flex flex-row text-white border-2 px-6 py-3 my-2 items-center'>
-                <a href="https://drive.google.com/file/d/1gKTKCnlgWtu1xhWbIyOVqjtC3KBSeWAC/view?usp=sharing" target='_blank'>Resume</a>
+                <a href="https://drive.google.com/file/d/17feV_VyMASoczeYyaKB1GvMzaColtI_T/view?usp=sharing" target='_blank'>Resume</a>
             </button>
         </div>
       </div>
