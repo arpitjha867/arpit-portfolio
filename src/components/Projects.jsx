@@ -83,7 +83,7 @@ export default function Projects() {
                         </div>
                     </div>
                     <div style={{backgroundImage : `url(${flipkart})`}}  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        <div className='hoverEffect'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
                                 Flipkart Clone Webapp
                             </span>
@@ -98,7 +98,7 @@ export default function Projects() {
                         </div>
                     </div>
                     <div style={{backgroundImage : `url(${news})`}}  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        <div className='opacity-0 group-hover:opacity-100 '>
                             <span className='text-2xl font-bold text-white tracking-wider'>
                                 Newsify Webapp
                             </span>

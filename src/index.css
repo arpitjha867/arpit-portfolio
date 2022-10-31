@@ -26,3 +26,12 @@
         hsla(242,74%,61%,0.8)
     )!important;
 }
+.hoverEffect{
+    display: none;
+    opacity: 0%;
+}
+.hoverEffect:hover {
+    display: block;
+    opacity: 100%;
+    transition: 2s;
+}
