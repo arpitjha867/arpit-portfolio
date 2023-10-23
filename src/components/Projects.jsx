@@ -9,7 +9,7 @@ const ProjectsData = [
     id: 1,
     name: "Zomato clone",
     imgSrc: zomato,
-    demoUrl: "https://tomat0.netlify.app/order_online",
+    demoUrl: "https://tomat0.netlify.app/",
     codeUrl: "https://github.com/arpitjha867/Zomato_Clone",
   },
   {
