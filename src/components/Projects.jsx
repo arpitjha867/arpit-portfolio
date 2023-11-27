@@ -1,19 +1,26 @@
 import React from "react";
 import travel from "../assets/travel.png";
-import isstracker from "../assets/iss-tracker.png";
 import news from "../assets/news.png";
 import portfolio from "../assets/portfolio.png";
 import zomato from "../assets/zomato.png";
+import ecommerce from "../assets/ecommerce.png"
 const ProjectsData = [
   {
     id: 1,
+    name: "Express Ecommerce App",
+    imgSrc: ecommerce,
+    demoUrl: "https://thankful-frog-bandanna.cyclic.app",
+    codeUrl: "https://github.com/arpitjha867/express-ecommerce-store",
+  },
+  {
+    id: 2,
     name: "Zomato clone",
     imgSrc: zomato,
     demoUrl: "https://tomat0.netlify.app/",
     codeUrl: "https://github.com/arpitjha867/Zomato_Clone",
   },
   {
-    id: 2,
+    id: 3,
     name: "Travel Website",
     imgSrc: travel,
     demoUrl: "https://arpitjha867.github.io/Travel-Website-React-Tailwind/",
